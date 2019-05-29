@@ -135,6 +135,7 @@ Verdaccio - A lightweight private npm proxy registry - https://verdaccio.org/
 gi - https://docs.gitignore.io/install/command-line  
 generate-license - https://github.com/generate/generate-license
 
+Semantic Versioning - http://semver.org  
 Conventional Commits - https://conventionalcommits.org  
 cz-cli - https://github.com/commitizen/cz-cli  
 np && standard-version - https://github.com/sindresorhus/np/pull/344
