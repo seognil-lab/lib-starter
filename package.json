@@ -4,6 +4,7 @@
     "main": "dist/index.cjs.js",
     "module": "dist/index.esm.js",
     "license": "MIT",
+    "description": "A quick lib starter for npm package develop and publish.",
     "scripts": {
         "build": "npx rollup -c",
         "build:watch": "npx rollup -c -w",
