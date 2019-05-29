@@ -71,6 +71,7 @@ there are two fields in `package.json`
 ### Publish the package
 
 I personally use `np` for releasing a version to github and npm.  
+(Or your can just follow the default `git push && npm pulish` way)  
 It's not perfect (such as bumping message unmodifiable and no changelog).  
 but good enough to use simply.
 
