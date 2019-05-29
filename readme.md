@@ -132,7 +132,7 @@ maybe I'd make a cli for starter later...)
 
 Verdaccio - A lightweight private npm proxy registry - https://verdaccio.org/
 
-gi - https://docs.gitignore.io/install/command-line
+gi - https://docs.gitignore.io/install/command-line  
 generate-license - https://github.com/generate/generate-license
 
 Conventional Commits - https://conventionalcommits.org  
