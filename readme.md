@@ -29,9 +29,11 @@ Includes:
 
 **!! MUST !!**
 
-update the `name` (maybe `author` and `homepage` and more) in `package.json`
+update the `publishConfig` and `name` (also `author` and `homepage` and more) in `package.json`
 
-update the `license` file
+update `git remote`
+update the `LICENSE` file
+update the `readme.md`
 
 ---
 
@@ -122,7 +124,7 @@ maybe I'd make a cli for starter later...)
 + generate-license # MIT and more
 + verdaccio # private npm registry
 
-[[.gitignore]] # gen by gi
+[[.gitignore]] # generate by gi
 [[.npmignore]] # now only include dist/built files
 ```
 
@@ -147,6 +149,10 @@ rollup output-format - https://rollupjs.org/guide/en/#output-format
 Package.json package-bundlers - https://github.com/stereobooster/package.json#package-bundlers  
 glob syntax - https://github.com/isaacs/node-glob/blob/master/README.md#glob-primer
 
+Node.js — How to test your new NPM module without publishing it every 5 minutes - https://medium.com/@the1mills/how-to-test-your-npm-module-without-publishing-it-every-5-minutes-1c4cb4b369be
+
+typescript-library-starter - https://github.com/alexjoverm/typescript-library-starter
+
 ---
 
 ## 🕗 TODO
@@ -154,5 +160,5 @@ glob syntax - https://github.com/isaacs/node-glob/blob/master/README.md#glob-pri
 -   [ ] config optimization
 -   [ ] stylelint for css files
 -   [ ] tslint for ts files
--   [ ] test（mocha case）
+-   [ ] test（mocha case / coverage）
 -   [ ] changelog with np

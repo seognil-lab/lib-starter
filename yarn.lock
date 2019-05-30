@@ -4156,7 +4156,7 @@ lodash.zip@^4.2.0:
 
 lodash@^4.17.11, lodash@^4.3.0:
   version "4.17.11"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+  resolved "http://localhost:4873/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha1-s56mIp72B+zYniyN8SU2iRysm40=
 
 log-symbols@2.2.0, log-symbols@^2.2.0:
