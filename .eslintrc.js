@@ -29,6 +29,8 @@ module.exports = {
         },
     },
     rules: {
-        'no-console': ['warn'],
+        // * use default at the beginning
+        // 'no-console': ['warn'],
+        // 'no-unused-vars': ['warn'],
     },
 };
