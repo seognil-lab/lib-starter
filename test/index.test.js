@@ -1,5 +1,5 @@
-// import theAnswer from '../src/index';
-import theAnswer from '../dist/index.esm';
+// import theAnswer from '../src';
+import theAnswer from '../dist';
 
 test('simple test', () => {
     expect(theAnswer).toBe(42);

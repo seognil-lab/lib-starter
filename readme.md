@@ -125,7 +125,7 @@ maybe I'd make a cli for starter later...)
 + verdaccio # private npm registry
 
 [[.gitignore]] # generate by gi
-[[.npmignore]] # now only include dist/built files
+[[.npmignore]] # now only include dist/built (cjs) & src (esm) files
 ```
 
 ---
@@ -152,6 +152,8 @@ glob syntax - https://github.com/isaacs/node-glob/blob/master/README.md#glob-pri
 Node.js — How to test your new NPM module without publishing it every 5 minutes - https://medium.com/@the1mills/how-to-test-your-npm-module-without-publishing-it-every-5-minutes-1c4cb4b369be
 
 typescript-library-starter - https://github.com/alexjoverm/typescript-library-starter
+
+README-Template.md - https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 ---
 

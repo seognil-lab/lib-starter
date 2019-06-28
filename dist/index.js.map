@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["const theAnswer = 42;\n\nexport default theAnswer;\n"],"names":["theAnswer"],"mappings":";;AAAA,IAAMA,SAAS,GAAG,EAAlB;;;;"}
