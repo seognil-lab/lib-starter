@@ -132,6 +132,13 @@ maybe I'd make a cli for starter later...)
 
 ## 📜 References
 
+**Packages using this starter**
+
+vector-math-fp https://github.com/seognil-lab/vector-math-fp  
+drag-resize-rotate https://github.com/seognil-lab/drag-resize-rotate
+
+<br>
+
 Verdaccio - A lightweight private npm proxy registry - https://verdaccio.org/
 
 gi - https://docs.gitignore.io/install/command-line  
